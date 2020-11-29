@@ -84,7 +84,7 @@
                     <message>deploy maven</message>  <!-- git commit message -->
                     <noJekyll>true</noJekyll>                                  <!-- disable webpage processing -->
                     <outputDirectory>${project.build.directory}/maven-repo</outputDirectory> <!-- matches distribution management repository url above -->
-                    <branch>refs/main</branch>                       <!-- remote branch name -->
+                    <branch>refs/feature/test</branch>                       <!-- remote branch name -->
                     <includes><include>**/*</include></includes>
                     <repositoryName>maven</repositoryName>      <!-- github repo name -->
                     <repositoryOwner>orlanswer</repositoryOwner>    <!-- github username  -->
