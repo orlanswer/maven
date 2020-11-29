@@ -1,9 +1,3 @@
 # maven
 
-Tests maven
-
-## Package subproject
-
-```console
-mvn -pl [subproject] clean package
-```
+Branche qui sert de repo maven
