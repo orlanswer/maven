@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.exemple</groupId>
-  <artifactId>ingest2</artifactId>
+  <artifactId>bom-composant</artifactId>
   <versioning>
     <versions>
-      <version>1.2-SNAPSHOT</version>
+      <version>1.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20201129174322</lastUpdated>
+    <lastUpdated>20201129174333</lastUpdated>
   </versioning>
 </metadata>
