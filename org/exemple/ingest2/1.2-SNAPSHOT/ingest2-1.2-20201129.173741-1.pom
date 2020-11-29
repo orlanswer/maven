@@ -9,11 +9,11 @@
   </parent>
 
   <groupId>org.exemple</groupId>
-  <artifactId>ingest1</artifactId>
+  <artifactId>ingest2</artifactId>
   <version>1.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>ingest1</name>
+  <name>ingest2</name>
   <url>http://maven.apache.org</url>
 
   <properties>
