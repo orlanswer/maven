@@ -66,4 +66,12 @@
         <url>scm:git:https://github.com/orlanswer/maven</url>
     </scm>
 
+    <distributionManagement>
+        <repository>
+            <id>repo-test-maven</id>
+            <name>test-maven</name>
+            <url>https://github.com/orlanswer/repo-maven-test</url>
+        </repository>
+    </distributionManagement>
+
 </project>
