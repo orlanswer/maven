@@ -4,12 +4,12 @@
     <parent>
         <groupId>org.example</groupId>
         <artifactId>maven</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.1-SNAPSHOT</version>
     </parent>
 
     <groupId>org.exemple</groupId>
     <artifactId>bom-composant</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>${project.artifactId}</name>
 
@@ -18,17 +18,17 @@
             <dependency>
                 <groupId>org.exemple</groupId>
                 <artifactId>indicateur</artifactId>
-                <version>1.0-SNAPSHOT</version>
+                <version>1.1-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.exemple</groupId>
                 <artifactId>ingest1</artifactId>
-                <version>1.0-SNAPSHOT</version>
+                <version>1.1-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.exemple</groupId>
                 <artifactId>ingest2</artifactId>
-                <version>1.0-SNAPSHOT</version>
+                <version>1.1-SNAPSHOT</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
