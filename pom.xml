@@ -13,6 +13,18 @@
 
     <profiles>
         <profile>
+            <id>default</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <modules>
+                <module>indicateur</module>
+                <module>ingest1</module>
+                <module>ingest2</module>
+                <module>bom-composant</module>
+            </modules>
+        </profile>
+        <profile>
             <id>indicateur</id>
             <modules>
                 <module>indicateur</module>
