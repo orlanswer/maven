@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>org.exemple</groupId>
-  <artifactId>bom-composant</artifactId>
+  <groupId>org.example</groupId>
+  <artifactId>maven</artifactId>
   <version>1.3-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20201129.172510</timestamp>
+      <timestamp>20201129.173530</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20201129172510</lastUpdated>
+    <lastUpdated>20201129173530</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.3-20201129.172510-1</value>
-        <updated>20201129172510</updated>
+        <value>1.3-20201129.173530-1</value>
+        <updated>20201129173530</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
