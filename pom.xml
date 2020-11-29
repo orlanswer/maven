@@ -47,4 +47,23 @@
         </profile>
     </profiles>
 
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <version>2.4.2</version>
+                <configuration>
+                    <updateDependencies>false</updateDependencies>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <scm>
+        <connection>scm:git:https://github.com/orlanswer/maven</connection>
+        <developerConnection>scm:git:https://github.com/orlanswer/maven</developerConnection>
+        <url>scm:git:https://github.com/orlanswer/maven</url>
+    </scm>
+
 </project>
